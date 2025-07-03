@@ -51,8 +51,11 @@ npm run dev
 🔍 Scripts
 
 npm run dev           # Start dev server
+
 npm run lint          # Run ESLint and Prettier
+
 npm run type-check    # TypeScript strict mode check
+
 
 
 🧪 Optional Extensions (Stretch Goals)
