@@ -2,6 +2,8 @@ A pixel-perfect, interactive spreadsheet interface built using React + TypeScrip
 This project replicates the design and behavior of the given Figma spec, including dynamic tabs, toolbar, and grid navigation.
 
 🚀 Live Preview
+https://spreadsheet-jade.vercel.app/
+
 
 ⚙️ Tech Stack
 
