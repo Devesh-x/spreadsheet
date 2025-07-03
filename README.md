@@ -27,18 +27,31 @@ npm run dev
 ✅ Features
 
 1 Pixel-aligned layout from Figma
+
 2 Status highlighting: In-progress, Complete, Blocked, etc.
+
 3 Priority indicators with colored text
+
 4 Tabs with icons and loggable interactions
+
 5 Toolbar with all buttons logging to console (no dead UI)
+
 6 Arrow-key keyboard navigation in grid
+
 7 Icons for each column header
+
 8 Fully responsive layout using Tailwind CSS
+
 9 Strict TypeScript mode enabled
+
 10 Linting with ESLint + Prettier
+
 11 npm run type-check to validate types
 
+
+
 🔍 Scripts
+
 
 npm run dev           # Start dev server
 
